@@ -1,0 +1,15 @@
+{
+  "name": "bot-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chu Vu",
+  "license": "ISC",
+  "dependencies": {
+    "facebook-chat-api": "^1.6.0",
+    "request": "^2.88.0"
+  }
+}
